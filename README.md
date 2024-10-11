@@ -1,5 +1,6 @@
 # Hackatholica-sportlight
-O projeto tem como objetivo permitir que a comunidade tenha conhecimento das atividades esportivas que ocorrem próximas a elas e que sejam voluntárias. 
+O projeto tem como objetivo permitir que a comunidade tenha conhecimento das atividades esportivas voluntárias que ocorrem em Palmas. 
+Nossa missão é democratizar o acesso ao esporte, promover saúde e inclusão social por meio de uma plataforma de fácil acesso.
 
 Palmas é considerada a capital do esporte, sendo desenvolvido várias atividade e eventos para a população. Porém, devido a falta de acesso a essa informação a comunidade não se envolve nas práticas esportivas oferecidas à elas.
 
