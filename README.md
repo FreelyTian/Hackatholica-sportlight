@@ -1,13 +1,11 @@
 # Hackatholica-sportlight
-O projeto tem como objetivo permitir que a comunidade tenha conhecimento das atividades esportivas voluntárias que ocorrem em Palmas. 
+O projeto visa proporcionar à comunidade de Palmas acesso às atividades esportivas voluntárias disponíveis. Nossa missão é democratizar o envolvimento com o esporte, promovendo saúde e inclusão social por meio de uma plataforma de fácil navegação.
 
-Nossa missão é democratizar o acesso ao esporte, promover saúde e inclusão social por meio de uma plataforma de fácil acesso.
+O esporte desempenha um papel crucial no desenvolvimento social e físico, mas muitas comunidades enfrentam desafios para encontrar oportunidades acessíveis. Esta iniciativa busca preencher essa lacuna, oferecendo uma alternativa para combater a exclusão social através da prática esportiva sem custos. Estudos demonstram que a atividade física pode reduzir a criminalidade e melhorar a saúde pública, tornando nossa proposta extremamente relevante.
 
-O acesso ao esporte é uma ferramenta essencial para o desenvolvimento social e físico, mas muitas comunidades carecem de oportunidades acessíveis. O projeto aborda diretamente essa lacuna, oferecendo uma solução para combater a exclusão social através da prática esportiva gratuita. Dados mostram que o esporte pode reduzir a criminalidade e melhorar a saúde, o que faz da nossa proposta altamente relevante.
+A solução proposta é inovadora, pois conecta treinadores a espaços esportivos, sejam eles de entidades públicas ou privadas, focando especialmente em populações de baixa renda. Diferente de plataformas convencionais que oferecem aulas pagas, nossa abordagem é voltada para a filantropia e inclusão, atendendo aqueles que muitas vezes não podem arcar com custos de aulas particulares.
 
-O projeto oferece uma solução inovadora ao integrar treinadores e espaços esportivos disponíveis (de entidades públicas e privadas) para atender populações de baixa renda. Ao contrário de plataformas tradicionais de aulas, nossa proposta é focada em filantropia e inclusão social, atendendo a um público que muitas vezes não tem condições financeiras para pagar por aulas particulares.
+Em termos de viabilidade técnica, a plataforma se baseia em tecnologias acessíveis, utilizando frameworks para desenvolvimento web e mobile, além de integrar APIs para geolocalização e gestão de calendários. Essa abordagem permite uma implementação ágil e escalável, além de contar com o apoio de parcerias com entidades públicas que podem fornecer infraestrutura e recursos.
 
-A plataforma é tecnicamente viável com o uso de tecnologias amplamente disponíveis. Utilizando frameworks de desenvolvimento web e mobile, integração com APIs para geolocalização e gerenciamento de calendários, a implementação do projeto pode ser feita de forma ágil e escalável. Além disso, há suporte para parcerias com entidades públicas, que podem fornecer infraestrutura e recursos.
-
-O projeto tem um apelo social forte e pode atrair parcerias com ONGs, governos e empresas que queiram se associar a uma iniciativa de impacto positivo. Embora o lucro direto não seja o foco, o apoio de patrocinadores e doações podem garantir a sustentabilidade do projeto.
+O projeto possui um forte apelo social e tem potencial para atrair colaborações com ONGs, governo e empresas interessadas em se associar a uma causa de impacto positivo. Embora o lucro não seja o foco principal, o suporte de patrocinadores e doações poderá garantir a sustentabilidade da iniciativa.
 ![6](https://github.com/user-attachments/assets/6cbc8998-864a-406a-bd65-db72feeea918)
