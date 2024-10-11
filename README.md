@@ -1,4 +1,4 @@
-# Hackatholica-sportlight
+# Hackathólica - VIVA ESPORTE
 O projeto visa proporcionar à comunidade de Palmas acesso às atividades esportivas voluntárias disponíveis. Nossa missão é democratizar o envolvimento com o esporte, promovendo saúde e inclusão social por meio de uma plataforma de fácil navegação.
 
 O esporte desempenha um papel crucial no desenvolvimento social e físico, mas muitas comunidades enfrentam desafios para encontrar oportunidades acessíveis. Esta iniciativa busca preencher essa lacuna, oferecendo uma alternativa para combater a exclusão social através da prática esportiva sem custos. Estudos demonstram que a atividade física pode reduzir a criminalidade e melhorar a saúde pública, tornando nossa proposta extremamente relevante.
