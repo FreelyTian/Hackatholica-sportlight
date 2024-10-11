@@ -10,3 +10,4 @@ O projeto oferece uma solução inovadora ao integrar treinadores e espaços esp
 A plataforma é tecnicamente viável com o uso de tecnologias amplamente disponíveis. Utilizando frameworks de desenvolvimento web e mobile, integração com APIs para geolocalização e gerenciamento de calendários, a implementação do projeto pode ser feita de forma ágil e escalável. Além disso, há suporte para parcerias com entidades públicas, que podem fornecer infraestrutura e recursos.
 
 O projeto tem um apelo social forte e pode atrair parcerias com ONGs, governos e empresas que queiram se associar a uma iniciativa de impacto positivo. Embora o lucro direto não seja o foco, o apoio de patrocinadores e doações podem garantir a sustentabilidade do projeto.
+![5](https://github.com/user-attachments/assets/6cbc8998-864a-406a-bd65-db72feeea918)
